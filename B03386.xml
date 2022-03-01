@@ -1,0 +1,137 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A full and perfect account of the particulars of the terrible and bloody fight, which the Christian armies have obtained over the whole Turkish forces near the bridge of Esseck. With a particular of what plunder they have seiz'd and taken / Written from a person of quality who was present in the whole action.</title>
+            <author>Person of quality.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1687</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03386</idno>
+            <idno type="STC">Wing F2289</idno>
+            <idno type="STC">ESTC R225035</idno>
+            <idno type="EEBO-CITATION">52614679</idno>
+            <idno type="OCLC">ocm 52614679</idno>
+            <idno type="VID">175887</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03386)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175887)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2753:30)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A full and perfect account of the particulars of the terrible and bloody fight, which the Christian armies have obtained over the whole Turkish forces near the bridge of Esseck. With a particular of what plunder they have seiz'd and taken / Written from a person of quality who was present in the whole action.</title>
+                  <author>Person of quality.</author>
+               </titleStmt>
+               <extent>2 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by James Watson ...,</publisher>
+                  <pubPlace>Holy-Rood-House [Edinburgh] :</pubPlace>
+                  <date>1687.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Austro-Turkish War, 1683-1699 --  Campaigns --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:175887:1" rendition="simple:additions"/>
+            <head>A FULL AND PERFECT ACCOUNT Of the Particulars of the Terrible and Bloody Fight, which the Chriſtian Armies have obtained over the whole Turkiſh Forces near the Bridge of <hi>Eſſeck.</hi> With a particular of what Plunder they have Seiz'd and Taken.</head>
+            <byline>Written from a Perſon of Quality, who was preſent in the whole Action.</byline>
+            <opener>
+               <dateline>
+                  <date>Auguſt the 30th, 1687.</date>
+               </dateline>
+            </opener>
+            <p>LEtters yeſterday Afternoon (by three <hi>Flanders</hi> Mails) of the 21ſt inſtant; from <hi>Vienna,</hi> bring us the joyful increaſe, and particulars of the entire and accompliſh'd Victory, the Chriſtian Arms have obtain'd over the <hi>Turks</hi> near <hi>Darda,</hi> the 12th Courant; for which glorious Atchieve<g ref="char:EOLhyphen"/>ment their Imperial Majeſties, attended by all the Nobility of that Court, paid their Devotions in the Cathedral of St. <hi>Stephen,</hi> where <hi>Te Deum</hi> was Sung (with a <hi>Royal Salvo</hi>) of a triple diſcharge of all the Cannon; upon the Ramparts continued by Vollies of Muſqueteers, reſounding with ringing of Bells, Bonefires, and Acclamations of the people, the ſame being brought the Empe<g ref="char:EOLhyphen"/>rour from the Duke of <hi>Lorain,</hi> by General Count <hi>Taaffe,</hi> ſince the diſpatch of Prince <hi>Eugine</hi> of <hi>Savoy.</hi>
+            </p>
+            <p>The better to conſerve the method of acquiring this mighty Action, 'tis neceſſary at firſt to know the inducement that obliged the Grand <hi>Vizier</hi> to quit his impregnable Retrenchments, and give Battle to the Chriſtians: On the 27th the Grand <hi>Vizier</hi> paſ<g ref="char:EOLhyphen"/>ſed the <hi>Drave</hi> with his Army, and fortified his Camp near <hi>Darda,</hi> with two modern Retrenchments in Front, ſtrengthned with <hi>Palliſado</hi>'s, having <hi>Eſſeck</hi> and the <hi>Drave</hi> in his Rear, the <hi>Danube</hi> and the <hi>Moraſs</hi> on his Right, with a Wood and the <hi>Moraſs</hi> on his Left, which being viewed by the Generals, 'twas judged impoſſible, without ha<g ref="char:EOLhyphen"/>zarding the ruine of the whole Army, to attack, and force his Camp; therefore was re<g ref="char:EOLhyphen"/>ſolv'd by ſtratagems of War, to draw the Grand <hi>Vizier</hi> from thoſe ſecured Retrench<g ref="char:EOLhyphen"/>ments, ſo marched, and counter-marched the Army in divers figures: one Detachment of them making ſhew, as if they would re-paſs the <hi>Danube</hi> at <hi>Moha<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>z,</hi> and go into high <hi>Hungary,</hi> whilſt another made a feigned movement of marching towards <hi>Sygeth</hi> and <hi>Sycloſs,</hi> not without being able ſuddenly to re-unite their Main Body; which the Turks perceiving, lookt upon it at firſt, (as really it was intended) to decoy him out of his Poſt; and thereupon, would ſcarce permit the ravaging Tartars to pick up ſome of our Forragers, till believing they might be retreating in earneſt, made ſome Detachments to obſerve the Countenance of our Army, and ſometimes skirmiſh'd with our advanced Guards, gave us the Alarm; and having taken 200 of our men, returned to their Camp; (fluſh'd with this advantage) the Turks began to ſhew themſelves in different Parties; our Generals concerted new methods, marching their Army in ſeveral Fronts, further a field, as well to be diſtant from a Wood, which incommoded our Foragers, as to give the Grand <hi>Vizier</hi> a large ſpace of ground. with deſire to follow us, but this march was ſtill in vain: yet notwithſtanding the ſame day we perceived a conſiderable Body of Turkiſh Cavalry in our Rear; but ſo ſoon as we faced about, and began to skirmiſh with them, they made a haſty Retreat: The Duke of <hi>Lorain,</hi> by this time, judging that he ſhould not be able to cauſe him to give Battle in open Field, took a reſo<g ref="char:EOLhyphen"/>lution to march for <hi>Sycloſs</hi> and <hi>Five-Churches,</hi> and withdraw thoſe Garriſons, demo<g ref="char:EOLhyphen"/>liſhing
+<pb n="2" facs="tcp:175887:2"/> the Fortifications, which otherwiſe might have fallen into the Enemies poſſeſ<g ref="char:EOLhyphen"/>ſion, began to move towards them on the 10th, and with eaſie marches, continued the 11th, ſending Baron <hi>De Orlick</hi> to precede the Vant-Guard with 4 or 500 Horſe: In this march, a great Body of Turkiſh Spahi's did what they could to interrupt our moti<g ref="char:EOLhyphen"/>on, ſhewing themſelves ſometimes on the Wing, then on the Flank; we entred upon diſpute with them, but they retired with precipitation. On the 12th, the Grand <hi>Vi<g ref="char:EOLhyphen"/>zier,</hi> thinking the Chriſtians were making the beſt of their way from him, would not loſe the opportunity, but detached ſome of his beſt Troopers, to give us a Diverſion; and about two in the Afternoon 10000 Turkiſh Cavalry, and half the number of <hi>Jani<g ref="char:EOLhyphen"/>zaries</hi> came right upon our Left Wing, commanded by the Elector of <hi>Bavaria</hi> and Prince <hi>Lewis</hi> of <hi>Baden,</hi> preceded by ſome <hi>German Curiaſiers;</hi> who vigorouſly ſu<g ref="char:EOLhyphen"/>ſtained the Turkiſh Charge, but retir'd into their firſt Line: On a ſudden the <hi>Janiza<g ref="char:EOLhyphen"/>ries</hi> were poſted on an Eminence, with ſome Field-pieces, and made continual firing with ſmall and great ſhot, whilſt 10000 of their Horſe endeavoured to put us in diſor<g ref="char:EOLhyphen"/>der, which obliged the Elector of <hi>Bavaria</hi> to extend his Front to be in proportion with that of the Enemy, the Regiments of <hi>Savoy</hi> and <hi>Comercy</hi> ſuſtain'd this firſt Charge, which was very fierce and obſtinate, the Chriſtians continuing firm with great Reſolu<g ref="char:EOLhyphen"/>tion and Courage, notwithſtanding they were attack'd in Front and Flank; the Elector came in perſon to their Aſſiſtance, and found the Diſpute ſo warm, that he received a Shot in his Hand, Prince <hi>Comercy</hi> a Wound in the Breaſt with an Arrow, which yet did not hinder his continuing in the Action, to give what neceſſary orders were required.</p>
+            <p>The Duke of <hi>Lorain</hi> to get ground, cauſed at the ſame time the Right Wing to march croſs, and ſtretch towards the Flank of the Enemies, who attacked our Left, and the Left went to meet another Body of Horſe and Foot, which marched to Charge them: And now the Fight began to be bloody on both ſides, the Victory hanging in ſuſpence for two or three hours; but by the coming in of a freſh Detachment on the Chriſtian ſide, the Turks began to loſe ground, afterwards to mend their pace; and in the end to take a perfect Flight, one Body of their Cavalry retiring upon their Foot, put the whole in diſorder; a great ſlaughter being made, and we purſued the Enemy with ſo much vi<g ref="char:EOLhyphen"/>gour and heat, that we entred Pell-mell with them into their Camp, and made our ſelves with little reſiſtance, Maſters of both their Retrenchments, and purſued the Enemy as long as the day would permit. This Victory is ſo great, as not to have any parallel for ſome Ages: we drove many into the <hi>Moraſs</hi> and <hi>Drave,</hi> where they periſh'd, and the Bridge over the River, through the weight of people thronging to get over, broke down; ſome ſay the Grand <hi>Vizier</hi> caus'd the ſame to be done, leaving a multitude on this ſide the <hi>Drave,</hi> who are retir'd to the Woods, Marſhes, and Iſles, where they are ſhut up, and muſt ſurrender upon diſcretion for want of Food: And ſome perſons re<g ref="char:EOLhyphen"/>port, that there is no leſs than 25 or 30000 Men thus diſpers'd, and of 15000 old <hi>Ja<g ref="char:EOLhyphen"/>nizaries,</hi> ſcarce 50 are ſav'd; and they reckon above 20000 are kill'd and drown'd. They have ſeiz'd a mighty Rich Booty, the Grand <hi>Vizier</hi>'s Tent, which fell to the lot of the Elector of <hi>Bavaria,</hi> is ſo Rich in Gold and Pearl, Precious Stones, <hi>&amp;c.</hi> as is ineſtimable, 116 Canon and Mortars taken, 6000 head of Cattle, 1500 Camels, 100 Buffulors ſeiz'd, 2000 Waggons with all Proviſion and Ammunition, are fell into our hands, a number of Tents, Standards, and Horſes Tails; and there is ſcarce a Souldier but abounds in Gold and Silver. The Priſoners alſo report, That the Grand <hi>Vizier</hi> had not been induced to come out of his Retrenchments, but by the perſwaſion of ſome Chriſtians in his Army, who flatter'd him with aſſurance of Succeſs; and that they ſhould certainly take the Dukes of <hi>Lorain</hi> and <hi>Bavaria</hi> Priſoners; and thereby oblige the Emperour to make Peace with the Grand <hi>Seignior,</hi> and reſtore all the Places in <hi>Hun<g ref="char:EOLhyphen"/>gary</hi> he has Re-conquer'd during the War: But Providence has diſpoſed otherwiſe, and 'tis not to be doubted, but that this Glorious Victory will have a quite contrary effect.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Holy-Rood-Houſe:</hi> Printed by <hi>James Watſon,</hi> Printer to His moſt Excellent Maje<g ref="char:EOLhyphen"/>ſties Royal Family and Houſhold. 1687.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
